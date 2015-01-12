@@ -1,5 +1,5 @@
 /*
- * Name 1: Douglas Puppio
+ * Name 1: Douglas Puppio Pereira
  * Name 2: Chen Wang
  */
 
